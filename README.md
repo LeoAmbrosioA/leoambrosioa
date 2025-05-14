@@ -184,11 +184,4 @@
 <img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
 <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
-
-  _                                                _                            _         
- | |                           /\                 | |                          (_)        
- | |        ___    ___        /  \     _ __ ___   | |__    _ __    ___    ___   _    ___  
- | |       / _ \  / _ \      / /\ \   | '_ ` _ \  | '_ \  | '__|  / _ \  / __| | |  / _ \ 
- | |____  |  __/ | (_) |    / ____ \  | | | | | | | |_) | | |    | (_) | \__ \ | | | (_) |
- |______|  \___|  \___/    /_/    \_\ |_| |_| |_| |_.__/  |_|     \___/  |___/ |_|  \___/ 
-                                                                                                                                                                   
+                                                             
